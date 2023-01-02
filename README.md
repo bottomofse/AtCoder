@@ -16,4 +16,4 @@
 -|-|-|-
 | [A - Payment](https://atcoder.jp/contests/abc173/tasks/abc173_a) | [提出1](https://atcoder.jp/contests/abc173/submissions/21757363) |  |  |
 | [B - Judge Status Summary](https://atcoder.jp/contests/abc173/tasks/abc173_b) | [提出1](https://atcoder.jp/contests/abc173/submissions/21757459) |  |  |
-| [C - H and V](https://atcoder.jp/contests/abc173/tasks/abc173_c) | [提出1](https://atcoder.jp/contests/abc173/submissions/21761771) | bit全探索 |  |
+| [C - H and V](https://atcoder.jp/contests/abc173/tasks/abc173_c) | [提出1](https://atcoder.jp/contests/abc173/submissions/21761771) [提出2](https://atcoder.jp/contests/abc173/submissions/37697806) | bit全探索 |  |
