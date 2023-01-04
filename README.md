@@ -53,6 +53,17 @@
 | [A - Number of Multiples](https://atcoder.jp/contests/aising2020/tasks/aising2020_a) | [提出1](https://atcoder.jp/contests/aising2020/submissions/21779364) |  |  |
 | [B - An Odd Problem](https://atcoder.jp/contests/aising2020/tasks/aising2020_b) | [提出1](https://atcoder.jp/contests/aising2020/submissions/21779339) |  |  |
 | [C - XYZ Triplets](https://atcoder.jp/contests/aising2020/tasks/aising2020_c) | [提出1](https://atcoder.jp/contests/aising2020/submissions/21779307) | 全探索 | x,y,zを100以下で全探索する |
+| [D - Anything Goes to Zero](https://atcoder.jp/contests/aising2020/tasks/aising2020_d) | []() |  |  |
+| []() | []() |  |  |
+
+## [M-SOLUTIONS プロコンオープン 2020](https://atcoder.jp/contests/m-solutions2020)
+
+| 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
+-|-|-|-
+| [A - Kyu in AtCoder](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/21779644) |  |  |
+| [B - Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/21779623) |  |  |
+| [C - Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/21779553) |  | 例えば、例1の3学期の成績は、1x2x3学期の成績、4学期の成績は2x3x4学期の成績となるので、1学期と4学期の成績を比較すればよい |
+| [D - Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d) | []() |  |  |
 | []() | []() |  |  |
 
 | 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
