@@ -18,3 +18,12 @@
 | [C - H and V](https://atcoder.jp/contests/abc173/tasks/abc173_c) | [提出1](https://atcoder.jp/contests/abc173/submissions/21761771) [提出2](https://atcoder.jp/contests/abc173/submissions/37697806) | bit全探索 |  |
 | [D - Chat in a Circle](https://atcoder.jp/contests/abc173/tasks/abc173_d) | [提出1](https://atcoder.jp/contests/abc173/submissions/37698606) | 貪欲法 | 降順にソートしてから計算する |
 | []() | []() |  |  |
+
+## [エイシングプログラミングコンテスト](https://atcoder.jp/contests/aising2020)
+
+| 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
+-|-|-|-
+| [A - Number of Multiples](https://atcoder.jp/contests/aising2020/tasks/aising2020_a) | [提出1](https://atcoder.jp/contests/aising2020/submissions/21779364) |  |  |
+| [B - An Odd Problem](https://atcoder.jp/contests/aising2020/tasks/aising2020_b) | [提出1](https://atcoder.jp/contests/aising2020/submissions/21779339) |  |  |
+| [C - XYZ Triplets](https://atcoder.jp/contests/aising2020/tasks/aising2020_c) | [提出1](https://atcoder.jp/contests/aising2020/submissions/21779307) | 全探索 | x,y,zを100以下で全探索する |
+| []() | []() |  |  |
