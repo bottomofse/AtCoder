@@ -26,6 +26,16 @@
 | [D - Replacing](https://atcoder.jp/contests/abc171/tasks/abc171_d) | [提出1](https://atcoder.jp/contests/abc171/submissions/37726933) | 差分更新 | 値ごとの数と合計値を計算しておき変換ごとに差分を計算する |
 | []() | []() |  |  |
 
+## [AtCoder Beginner Contest 172](https://atcoder.jp/contests/abc172)
+
+| 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
+-|-|-|-
+| [A - Calc](https://atcoder.jp/contests/abc172/tasks/abc172_a) | [提出1](https://atcoder.jp/contests/abc172/submissions/21842120) |  |  |
+| [B - Minor Change](https://atcoder.jp/contests/abc172/tasks/abc172_b) | [提出1](https://atcoder.jp/contests/abc172/submissions/21842115) |  |  |
+| [C - Tsundoku](https://atcoder.jp/contests/abc172/tasks/abc172_c) | [提出1](https://atcoder.jp/contests/abc172/submissions/21842099) | 尺取り法・二分探索 | <br>※二分探索でもできるようだが未実装 |
+| [D - Sum of Divisors](https://atcoder.jp/contests/abc172/tasks/abc172_d) | [提出1](https://atcoder.jp/contests/abc172/submissions/37729744) [提出2](https://atcoder.jp/contests/abc172/submissions/37729278) | エラトステネスの篩・等差数列の和 | 篩を使う場合、1の倍数をNまで加算、2の倍数を～でNまで行い最後に計算する<br>等差数列で考える場合は「初項1、公差1の数列の合計」「初項2、公差2の数列の合計」とNまで計算して加算する |
+| []() | []() |  |  |
+
 ## [AtCoder Beginner Contest 173](https://atcoder.jp/contests/abc173)
 
 | 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
