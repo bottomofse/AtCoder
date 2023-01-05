@@ -63,7 +63,7 @@
 | [A - Kyu in AtCoder](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/21779644) |  |  |
 | [B - Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/21779623) |  |  |
 | [C - Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/21779553) |  | 例えば、例1の3学期の成績は、1x2x3学期の成績、4学期の成績は2x3x4学期の成績となるので、1学期と4学期の成績を比較すればよい |
-| [D - Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d) | []() |  |  |
+| [D - Road to Millionaire](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_d) | [提出1](https://atcoder.jp/contests/m-solutions2020/submissions/37741374) |  | 翌日上がる場合は買えるだけい買い、下がる場合はすべて売るを繰り返す。最後に株券を持っている場合はすべて売る |
 | []() | []() |  |  |
 
 | 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
