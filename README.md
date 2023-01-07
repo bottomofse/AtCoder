@@ -2,12 +2,12 @@
 
 | 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
 -|-|-|-
-| [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | [提出1](https://atcoder.jp/contests/dp/submissions/21574844) |  |  |
-| [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [提出1](https://atcoder.jp/contests/dp/submissions/21575155) |  |  |
-| [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [提出1](https://atcoder.jp/contests/dp/submissions/21575374) |  |  |
-| [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | [提出1](https://atcoder.jp/contests/dp/submissions/23317759) [提出2](https://atcoder.jp/contests/dp/submissions/23317906) |  |  |
-| [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [提出1](https://atcoder.jp/contests/dp/submissions/23318654) |  |  |
-| [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [提出1](https://atcoder.jp/contests/dp/submissions/37854422) |  |  |
+| [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | [提出1](https://atcoder.jp/contests/dp/submissions/21574844) | 動的計画法 | 足場iでの最小コストはi-1とi-2から計算する |
+| [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [提出1](https://atcoder.jp/contests/dp/submissions/21575155) | 動的計画法 | A問題とほぼ同等の考え方 |
+| [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [提出1](https://atcoder.jp/contests/dp/submissions/21575374) | 動的計画法 | ABCで別のdp配列を用意 |
+| [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | [提出1](https://atcoder.jp/contests/dp/submissions/23317759) [提出2](https://atcoder.jp/contests/dp/submissions/23317906) | 動的計画法 |  |
+| [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [提出1](https://atcoder.jp/contests/dp/submissions/23318654) | 動的計画法 |  |
+| [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [提出1](https://atcoder.jp/contests/dp/submissions/37854422) | 動的計画法 |  |
 | []() | []() |  |  |
 
 ## [典型９０問](https://atcoder.jp/contests/typical90)
