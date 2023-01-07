@@ -1,3 +1,15 @@
+## [Educational DP Contest ](https://atcoder.jp/contests/dp) 
+
+| 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
+-|-|-|-
+| [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | [提出1](https://atcoder.jp/contests/dp/submissions/21574844) |  |  |
+| [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [提出1](https://atcoder.jp/contests/dp/submissions/21575155) |  |  |
+| [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [提出1](https://atcoder.jp/contests/dp/submissions/21575374) |  |  |
+| [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | [提出1](https://atcoder.jp/contests/dp/submissions/23317759) [提出2](https://atcoder.jp/contests/dp/submissions/23317906) |  |  |
+| [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [提出1](https://atcoder.jp/contests/dp/submissions/23318654) |  |  |
+| [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [提出1](https://atcoder.jp/contests/dp/submissions/37854422) |  |  |
+| []() | []() |  |  |
+
 ## [典型９０問](https://atcoder.jp/contests/typical90)
 
 | 問題リンク | 提出リンク | 必要なアルゴリズム等 | メモ |
